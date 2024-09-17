@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">AI/ML @Accuknox</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2020ashish" alt="2020ashish" /></a> </p>
 
